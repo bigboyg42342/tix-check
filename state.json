@@ -1,7 +1,17 @@
 {
+  "378555858": {
+    "name": "Wednesday 14.10",
+    "available": true,
+    "url": "https://fixr.co/event/wednesday-1410-tickets-378555858"
+  },
   "217255752": {
     "name": "DB: Cavern Tuesday",
     "available": true,
     "url": "https://fixr.co/event/db-cavern-tuesday-tickets-217255752"
+  },
+  "363088788": {
+    "name": "LOGIC: Rufus Rice Live",
+    "available": false,
+    "url": "https://fixr.co/event/logic-rufus-rice-live-tickets-363088788"
   }
 }
