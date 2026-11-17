@@ -1,7 +1,27 @@
 {
+  "878770161": {
+    "name": "Wednesday 18.11",
+    "available": true,
+    "url": "https://fixr.co/event/wednesday-1811-tickets-878770161"
+  },
+  "630475526": {
+    "name": "SKETCH 20.11",
+    "available": true,
+    "url": "https://fixr.co/event/sketch-2011-tickets-630475526"
+  },
+  "64916737": {
+    "name": "Saturday 21.11",
+    "available": false,
+    "url": "https://fixr.co/event/saturday-2111-tickets-64916737"
+  },
   "876319560": {
     "name": "DB: Cavern Tuesday",
     "available": true,
     "url": "https://fixr.co/event/db-cavern-tuesday-tickets-876319560"
+  },
+  "417981035": {
+    "name": "LOGIC: Special Guest JOEY ESSEX",
+    "available": false,
+    "url": "https://fixr.co/event/logic-special-guest-joe-essex-tickets-417981035"
   }
 }
