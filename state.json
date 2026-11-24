@@ -4,9 +4,29 @@
     "available": true,
     "url": "https://fixr.co/event/wednesday-2511-tickets-200663156"
   },
+  "396421649": {
+    "name": "SKETCH 27.11",
+    "available": true,
+    "url": "https://fixr.co/event/sketch-2711-tickets-396421649"
+  },
+  "720480288": {
+    "name": "Saturday 28.11",
+    "available": false,
+    "url": "https://fixr.co/event/saturday-2811-tickets-720480288"
+  },
   "221328723": {
     "name": "DB: Cavern Tuesday",
-    "available": true,
+    "available": false,
     "url": "https://fixr.co/event/db-cavern-tuesday-tickets-221328723"
+  },
+  "478709454": {
+    "name": "LOGIC: Xmas Party",
+    "available": false,
+    "url": "https://fixr.co/event/logic-xmas-party-tickets-478709454"
+  },
+  "141000829": {
+    "name": "Paradise",
+    "available": false,
+    "url": "https://fixr.co/event/paradise-tickets-141000829"
   }
 }
